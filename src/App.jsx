@@ -128,7 +128,7 @@ const PARKS = [
   mk(
     6,
     "Parkir Joks",
-    "Jl. Tambak Bayan, Janti, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+    "Jl. Tambak Bayan, Janti, Caturtunggal",
     -7.7759,
     110.415,
     { motor: 90, mobil: 35, lain: 6 },
